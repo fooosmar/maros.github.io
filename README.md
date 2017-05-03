@@ -1,2 +1,2 @@
 # maros.github.io
-A Website for moros linux
+A Website for maros linux
